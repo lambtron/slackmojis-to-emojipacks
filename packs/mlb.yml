@@ -1,0 +1,30 @@
+title: mlb
+emojis:
+    - {name: astros, src: 'http://emojis.slackmojis.com/emojis/images/1486698558/1716/astros.jpg?1486698558'}
+    - {name: athletics, src: 'http://emojis.slackmojis.com/emojis/images/1486698559/1717/athletics.jpg?1486698559'}
+    - {name: bluejays, src: 'http://emojis.slackmojis.com/emojis/images/1488914770/1825/bluejays.png?1488914770'}
+    - {name: brewers, src: 'http://emojis.slackmojis.com/emojis/images/1486698560/1718/brewers.jpg?1486698560'}
+    - {name: cardinals, src: 'http://emojis.slackmojis.com/emojis/images/1486698560/1719/cardinals.jpg?1486698560'}
+    - {name: cubs, src: 'http://emojis.slackmojis.com/emojis/images/1486698561/1720/cubs.jpg?1486698561'}
+    - {name: diamondbacks, src: 'http://emojis.slackmojis.com/emojis/images/1486698561/1721/diamondbacks.jpg?1486698561'}
+    - {name: dodgers, src: 'http://emojis.slackmojis.com/emojis/images/1486698561/1722/dodgers.jpg?1486698561'}
+    - {name: expos, src: 'http://emojis.slackmojis.com/emojis/images/1486698561/1723/expos.jpg?1486698561'}
+    - {name: giants, src: 'http://emojis.slackmojis.com/emojis/images/1486698562/1724/giants.jpg?1486698562'}
+    - {name: indians, src: 'http://emojis.slackmojis.com/emojis/images/1486698562/1725/indians.jpg?1486698562'}
+    - {name: mariners, src: 'http://emojis.slackmojis.com/emojis/images/1486698562/1726/mariners.jpg?1486698562'}
+    - {name: marlins, src: 'http://emojis.slackmojis.com/emojis/images/1486698562/1727/marlins.jpg?1486698562'}
+    - {name: mets, src: 'http://emojis.slackmojis.com/emojis/images/1486698563/1728/mets.jpg?1486698563'}
+    - {name: nats, src: 'http://emojis.slackmojis.com/emojis/images/1486698563/1729/nats.jpg?1486698563'}
+    - {name: orioles, src: 'http://emojis.slackmojis.com/emojis/images/1486698563/1730/orioles.jpg?1486698563'}
+    - {name: padres, src: 'http://emojis.slackmojis.com/emojis/images/1486698563/1731/padres.jpg?1486698563'}
+    - {name: phillies, src: 'http://emojis.slackmojis.com/emojis/images/1486698564/1732/phillies.jpg?1486698564'}
+    - {name: pirates, src: 'http://emojis.slackmojis.com/emojis/images/1486698564/1733/pirates.jpg?1486698564'}
+    - {name: rangers, src: 'http://emojis.slackmojis.com/emojis/images/1486698564/1734/rangers.jpg?1486698564'}
+    - {name: rays, src: 'http://emojis.slackmojis.com/emojis/images/1486698564/1735/rays.jpg?1486698564'}
+    - {name: reds, src: 'http://emojis.slackmojis.com/emojis/images/1486698565/1737/reds.jpg?1486698565'}
+    - {name: red_sox, src: 'http://emojis.slackmojis.com/emojis/images/1486698565/1736/red_sox.jpg?1486698565'}
+    - {name: rockies, src: 'http://emojis.slackmojis.com/emojis/images/1486698565/1738/rockies.jpg?1486698565'}
+    - {name: royals, src: 'http://emojis.slackmojis.com/emojis/images/1486698565/1739/royals.jpg?1486698565'}
+    - {name: tigers, src: 'http://emojis.slackmojis.com/emojis/images/1486698566/1740/tigers.jpg?1486698566'}
+    - {name: white_sox, src: 'http://emojis.slackmojis.com/emojis/images/1486698566/1741/white_sox.jpg?1486698566'}
+    - {name: yankess, src: 'http://emojis.slackmojis.com/emojis/images/1486698566/1742/yankess.jpg?1486698566'}

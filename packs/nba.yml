@@ -1,0 +1,32 @@
+title: nba
+emojis:
+    - {name: 76ers, src: 'http://emojis.slackmojis.com/emojis/images/1464145836/465/76ers.png?1464145836'}
+    - {name: bucks, src: 'http://emojis.slackmojis.com/emojis/images/1464145871/466/bucks.png?1464145871'}
+    - {name: bulls, src: 'http://emojis.slackmojis.com/emojis/images/1464145910/467/bulls.png?1464145910'}
+    - {name: cavaliers, src: 'http://emojis.slackmojis.com/emojis/images/1464145928/468/cavaliers.png?1464145928'}
+    - {name: celtics, src: 'http://emojis.slackmojis.com/emojis/images/1464145943/469/celtics.png?1464145943'}
+    - {name: clippers, src: 'http://emojis.slackmojis.com/emojis/images/1464145963/470/clippers.png?1464145963'}
+    - {name: grizzlies, src: 'http://emojis.slackmojis.com/emojis/images/1464145979/471/grizzlies.png?1464145979'}
+    - {name: hawks, src: 'http://emojis.slackmojis.com/emojis/images/1464146002/472/hawks.png?1464146002'}
+    - {name: heat, src: 'http://emojis.slackmojis.com/emojis/images/1464146040/473/heat.png?1464146040'}
+    - {name: hornets, src: 'http://emojis.slackmojis.com/emojis/images/1464146057/474/hornets.png?1464146057'}
+    - {name: jazz, src: 'http://emojis.slackmojis.com/emojis/images/1464146076/475/jazz.png?1464146076'}
+    - {name: kings, src: 'http://emojis.slackmojis.com/emojis/images/1464146094/476/kings.png?1464146094'}
+    - {name: knicks, src: 'http://emojis.slackmojis.com/emojis/images/1464146113/477/knicks.png?1464146113'}
+    - {name: lakers, src: 'http://emojis.slackmojis.com/emojis/images/1464146132/478/lakers.png?1464146132'}
+    - {name: magic, src: 'http://emojis.slackmojis.com/emojis/images/1464146151/479/magic.png?1464146151'}
+    - {name: mavericks, src: 'http://emojis.slackmojis.com/emojis/images/1464146169/480/mavericks.png?1464146169'}
+    - {name: nets, src: 'http://emojis.slackmojis.com/emojis/images/1464146190/481/nets.png?1464146190'}
+    - {name: nuggets, src: 'http://emojis.slackmojis.com/emojis/images/1464146207/482/nuggets.png?1464146207'}
+    - {name: pacers, src: 'http://emojis.slackmojis.com/emojis/images/1464146223/483/pacers.png?1464146223'}
+    - {name: pelicans, src: 'http://emojis.slackmojis.com/emojis/images/1464146241/484/pelicans.png?1464146241'}
+    - {name: pistons, src: 'http://emojis.slackmojis.com/emojis/images/1464146256/485/pistons.png?1464146256'}
+    - {name: raptors, src: 'http://emojis.slackmojis.com/emojis/images/1464146288/486/raptors.png?1464146288'}
+    - {name: rockets, src: 'http://emojis.slackmojis.com/emojis/images/1464146305/487/rockets.png?1464146305'}
+    - {name: spurs, src: 'http://emojis.slackmojis.com/emojis/images/1464146323/488/spurs.png?1464146323'}
+    - {name: suns, src: 'http://emojis.slackmojis.com/emojis/images/1464146340/489/suns.png?1464146340'}
+    - {name: thunder, src: 'http://emojis.slackmojis.com/emojis/images/1464146357/490/thunder.png?1464146357'}
+    - {name: timberwolves, src: 'http://emojis.slackmojis.com/emojis/images/1464146376/491/timberwolves.png?1464146376'}
+    - {name: trailblazers, src: 'http://emojis.slackmojis.com/emojis/images/1464146395/492/trailblazers.png?1464146395'}
+    - {name: warriors, src: 'http://emojis.slackmojis.com/emojis/images/1464146409/493/warriors.png?1464146409'}
+    - {name: wizards, src: 'http://emojis.slackmojis.com/emojis/images/1464146426/494/wizards.png?1464146426'}

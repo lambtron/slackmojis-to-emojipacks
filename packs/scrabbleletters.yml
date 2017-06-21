@@ -1,0 +1,29 @@
+title: scrabbleletters
+emojis:
+    - {name: a, src: 'http://emojis.slackmojis.com/emojis/images/1481250592/1443/a.jpg?1481250592'}
+    - {name: b, src: 'http://emojis.slackmojis.com/emojis/images/1481250615/1444/b.jpg?1481250615'}
+    - {name: blank, src: 'http://emojis.slackmojis.com/emojis/images/1481251189/1469/blank.jpg?1481251189'}
+    - {name: c, src: 'http://emojis.slackmojis.com/emojis/images/1481250615/1445/c.jpg?1481250615'}
+    - {name: d, src: 'http://emojis.slackmojis.com/emojis/images/1481250616/1446/d.jpg?1481250616'}
+    - {name: e, src: 'http://emojis.slackmojis.com/emojis/images/1481250616/1447/e.jpg?1481250616'}
+    - {name: f, src: 'http://emojis.slackmojis.com/emojis/images/1481250616/1448/f.jpg?1481250616'}
+    - {name: g, src: 'http://emojis.slackmojis.com/emojis/images/1481250617/1449/g.jpg?1481250617'}
+    - {name: h, src: 'http://emojis.slackmojis.com/emojis/images/1481250617/1450/h.jpg?1481250617'}
+    - {name: i, src: 'http://emojis.slackmojis.com/emojis/images/1481250618/1451/i.jpg?1481250618'}
+    - {name: j, src: 'http://emojis.slackmojis.com/emojis/images/1481250732/1452/j.jpg?1481250732'}
+    - {name: k, src: 'http://emojis.slackmojis.com/emojis/images/1481250732/1453/k.jpg?1481250732'}
+    - {name: l, src: 'http://emojis.slackmojis.com/emojis/images/1481250733/1454/l.jpg?1481250733'}
+    - {name: m, src: 'http://emojis.slackmojis.com/emojis/images/1481250733/1455/m.jpg?1481250733'}
+    - {name: n, src: 'http://emojis.slackmojis.com/emojis/images/1481250734/1456/n.jpg?1481250734'}
+    - {name: o, src: 'http://emojis.slackmojis.com/emojis/images/1481250734/1457/o.jpg?1481250734'}
+    - {name: p, src: 'http://emojis.slackmojis.com/emojis/images/1481250735/1458/p.jpg?1481250735'}
+    - {name: q, src: 'http://emojis.slackmojis.com/emojis/images/1481250735/1459/q.jpg?1481250735'}
+    - {name: r, src: 'http://emojis.slackmojis.com/emojis/images/1481250751/1460/r.jpg?1481250751'}
+    - {name: s, src: 'http://emojis.slackmojis.com/emojis/images/1481250751/1461/s.jpg?1481250751'}
+    - {name: t, src: 'http://emojis.slackmojis.com/emojis/images/1481250751/1462/t.jpg?1481250751'}
+    - {name: u, src: 'http://emojis.slackmojis.com/emojis/images/1481250752/1463/u.jpg?1481250752'}
+    - {name: v, src: 'http://emojis.slackmojis.com/emojis/images/1481250752/1464/v.jpg?1481250752'}
+    - {name: w, src: 'http://emojis.slackmojis.com/emojis/images/1481250753/1465/w.jpg?1481250753'}
+    - {name: x, src: 'http://emojis.slackmojis.com/emojis/images/1481250753/1466/x.jpg?1481250753'}
+    - {name: y, src: 'http://emojis.slackmojis.com/emojis/images/1481250754/1467/y.jpg?1481250754'}
+    - {name: z, src: 'http://emojis.slackmojis.com/emojis/images/1481251057/1468/z.jpg?1481251057'}

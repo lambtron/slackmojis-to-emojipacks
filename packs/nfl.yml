@@ -1,0 +1,37 @@
+title: nfl
+emojis:
+    - {name: 49ers, src: 'http://emojis.slackmojis.com/emojis/images/1472153431/1083/49ers.jpg?1472153431'}
+    - {name: afc, src: 'http://emojis.slackmojis.com/emojis/images/1472153432/1084/afc.jpg?1472153432'}
+    - {name: bears, src: 'http://emojis.slackmojis.com/emojis/images/1472153432/1085/bears.jpg?1472153432'}
+    - {name: bengals, src: 'http://emojis.slackmojis.com/emojis/images/1472153432/1086/bengals.jpg?1472153432'}
+    - {name: bills, src: 'http://emojis.slackmojis.com/emojis/images/1472153433/1087/bills.jpg?1472153433'}
+    - {name: broncos, src: 'http://emojis.slackmojis.com/emojis/images/1472153433/1088/broncos.jpg?1472153433'}
+    - {name: browns, src: 'http://emojis.slackmojis.com/emojis/images/1472153433/1089/browns.jpg?1472153433'}
+    - {name: bucaneers, src: 'http://emojis.slackmojis.com/emojis/images/1472153433/1090/bucaneers.jpg?1472153433'}
+    - {name: cardinals, src: 'http://emojis.slackmojis.com/emojis/images/1478302489/1327/cardinals.png?1478302489'}
+    - {name: chargers, src: 'http://emojis.slackmojis.com/emojis/images/1472153434/1091/chargers.jpg?1472153434'}
+    - {name: chiefs, src: 'http://emojis.slackmojis.com/emojis/images/1472153434/1092/chiefs.jpg?1472153434'}
+    - {name: colts, src: 'http://emojis.slackmojis.com/emojis/images/1472153434/1093/colts.jpg?1472153434'}
+    - {name: cowboys, src: 'http://emojis.slackmojis.com/emojis/images/1472153434/1094/cowboys.jpg?1472153434'}
+    - {name: dolphins, src: 'http://emojis.slackmojis.com/emojis/images/1472153435/1095/dolphins.jpg?1472153435'}
+    - {name: eagles, src: 'http://emojis.slackmojis.com/emojis/images/1472153435/1096/eagles.jpg?1472153435'}
+    - {name: falcons, src: 'http://emojis.slackmojis.com/emojis/images/1472153435/1097/falcons.jpg?1472153435'}
+    - {name: giants, src: 'http://emojis.slackmojis.com/emojis/images/1472153436/1098/giants.jpg?1472153436'}
+    - {name: jaguars, src: 'http://emojis.slackmojis.com/emojis/images/1472153436/1099/jaguars.jpg?1472153436'}
+    - {name: jets, src: 'http://emojis.slackmojis.com/emojis/images/1472153436/1100/jets.jpg?1472153436'}
+    - {name: lions, src: 'http://emojis.slackmojis.com/emojis/images/1472153436/1101/lions.jpg?1472153436'}
+    - {name: nfc, src: 'http://emojis.slackmojis.com/emojis/images/1472153437/1102/nfc.jpg?1472153437'}
+    - {name: nfl, src: 'http://emojis.slackmojis.com/emojis/images/1472153437/1103/nfl.jpg?1472153437'}
+    - {name: packers, src: 'http://emojis.slackmojis.com/emojis/images/1472153437/1104/packers.jpg?1472153437'}
+    - {name: panthers, src: 'http://emojis.slackmojis.com/emojis/images/1472153438/1105/panthers.jpg?1472153438'}
+    - {name: patriots, src: 'http://emojis.slackmojis.com/emojis/images/1472153438/1106/patriots.jpg?1472153438'}
+    - {name: raiders, src: 'http://emojis.slackmojis.com/emojis/images/1472153438/1107/raiders.jpg?1472153438'}
+    - {name: rams, src: 'http://emojis.slackmojis.com/emojis/images/1472153438/1108/rams.jpg?1472153438'}
+    - {name: ravens, src: 'http://emojis.slackmojis.com/emojis/images/1472153438/1109/ravens.jpg?1472153438'}
+    - {name: redskins, src: 'http://emojis.slackmojis.com/emojis/images/1472153439/1110/redskins.jpg?1472153439'}
+    - {name: saints, src: 'http://emojis.slackmojis.com/emojis/images/1472153439/1111/saints.jpg?1472153439'}
+    - {name: seahawks, src: 'http://emojis.slackmojis.com/emojis/images/1471556135/1048/seahawks.png?1471556135'}
+    - {name: steelers, src: 'http://emojis.slackmojis.com/emojis/images/1472153439/1113/steelers.jpg?1472153439'}
+    - {name: texans, src: 'http://emojis.slackmojis.com/emojis/images/1472153439/1114/texans.jpg?1472153439'}
+    - {name: titans, src: 'http://emojis.slackmojis.com/emojis/images/1472153440/1115/titans.jpg?1472153440'}
+    - {name: vikings, src: 'http://emojis.slackmojis.com/emojis/images/1472153440/1116/vikings.jpg?1472153440'}

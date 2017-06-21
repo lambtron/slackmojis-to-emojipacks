@@ -1,0 +1,33 @@
+title: pokemon
+emojis:
+    - {name: bulbasaur, src: 'http://emojis.slackmojis.com/emojis/images/1450735430/234/bulbasaur.png?1450735430'}
+    - {name: charizard, src: 'http://emojis.slackmojis.com/emojis/images/1450735493/236/charizard.png?1450735493'}
+    - {name: charmander, src: 'http://emojis.slackmojis.com/emojis/images/1450735852/239/charmander.png?1450735852'}
+    - {name: charmander_dancing, src: 'http://emojis.slackmojis.com/emojis/images/1469223471/679/charmander_dancing.gif?1469223471'}
+    - {name: ditto, src: 'http://emojis.slackmojis.com/emojis/images/1450735463/235/ditto.png?1450735463'}
+    - {name: eevee, src: 'http://emojis.slackmojis.com/emojis/images/1468518265/661/eevee.png?1468518265'}
+    - {name: eevee, src: 'http://emojis.slackmojis.com/emojis/images/1479080836/1363/eevee.gif?1479080836'}
+    - {name: espeon, src: 'http://emojis.slackmojis.com/emojis/images/1479080869/1364/espeon.gif?1479080869'}
+    - {name: flareon, src: 'http://emojis.slackmojis.com/emojis/images/1479081147/1367/flareon.gif?1479081147'}
+    - {name: glaceon, src: 'http://emojis.slackmojis.com/emojis/images/1479080957/1365/glaceon.gif?1479080957'}
+    - {name: instinct, src: 'http://emojis.slackmojis.com/emojis/images/1469201940/672/instinct.gif?1469201940'}
+    - {name: ivysaur, src: 'http://emojis.slackmojis.com/emojis/images/1450736574/244/ivysaur.png?1450736574'}
+    - {name: jolteon, src: 'http://emojis.slackmojis.com/emojis/images/1479080759/1360/jolteon.gif?1479080759'}
+    - {name: leafeon, src: 'http://emojis.slackmojis.com/emojis/images/1479080808/1362/leafeon.gif?1479080808'}
+    - {name: mew, src: 'http://emojis.slackmojis.com/emojis/images/1450736274/243/mew.png?1450736274'}
+    - {name: mewtwo, src: 'http://emojis.slackmojis.com/emojis/images/1450736076/242/mewtwo.png?1450736076'}
+    - {name: mystic, src: 'http://emojis.slackmojis.com/emojis/images/1469201975/673/mystic.gif?1469201975'}
+    - {name: pikachu, src: 'http://emojis.slackmojis.com/emojis/images/1450735712/238/pikachu.png?1450735712'}
+    - {name: pikachu, src: 'http://emojis.slackmojis.com/emojis/images/1450458394/182/pikachu.gif?1450458394'}
+    - {name: pokeball, src: 'http://emojis.slackmojis.com/emojis/images/1450464069/186/pokeball.png?1450464069'}
+    - {name: poke_pika, src: 'http://emojis.slackmojis.com/emojis/images/1472722064/1126/poke_pika.png?1472722064'}
+    - {name: poke_pika_angry, src: 'http://emojis.slackmojis.com/emojis/images/1472722188/1127/poke_pika_angry.png?1472722188'}
+    - {name: poke_pika_wink, src: 'http://emojis.slackmojis.com/emojis/images/1472722300/1128/poke_pika_wink.png?1472722300'}
+    - {name: psyduck, src: 'http://emojis.slackmojis.com/emojis/images/1450736025/241/psyduck.png?1450736025'}
+    - {name: slowpoke, src: 'http://emojis.slackmojis.com/emojis/images/1450735566/237/slowpoke.jpg?1450735566'}
+    - {name: snorlax, src: 'http://emojis.slackmojis.com/emojis/images/1450735389/233/snorlax.png?1450735389'}
+    - {name: squirtle, src: 'http://emojis.slackmojis.com/emojis/images/1450735892/240/squirtle.png?1450735892'}
+    - {name: sylveon, src: 'http://emojis.slackmojis.com/emojis/images/1479081267/1369/sylveon.gif?1479081267'}
+    - {name: umbreon, src: 'http://emojis.slackmojis.com/emojis/images/1479081112/1366/umbreon.gif?1479081112'}
+    - {name: valor, src: 'http://emojis.slackmojis.com/emojis/images/1469202036/674/valor.gif?1469202036'}
+    - {name: vaporeon, src: 'http://emojis.slackmojis.com/emojis/images/1479081197/1368/vaporeon.gif?1479081197'}

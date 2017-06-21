@@ -1,0 +1,27 @@
+title: nycsubway
+emojis:
+    - {name: 1train, src: 'http://emojis.slackmojis.com/emojis/images/1471449977/1019/1train.png?1471449977'}
+    - {name: 2train, src: 'http://emojis.slackmojis.com/emojis/images/1471449994/1020/2train.png?1471449994'}
+    - {name: 3train, src: 'http://emojis.slackmojis.com/emojis/images/1471450024/1021/3train.png?1471450024'}
+    - {name: 4train, src: 'http://emojis.slackmojis.com/emojis/images/1471450038/1022/4train.png?1471450038'}
+    - {name: 5train, src: 'http://emojis.slackmojis.com/emojis/images/1471450050/1023/5train.png?1471450050'}
+    - {name: 6train, src: 'http://emojis.slackmojis.com/emojis/images/1471450078/1024/6train.png?1471450078'}
+    - {name: 7train, src: 'http://emojis.slackmojis.com/emojis/images/1471450091/1025/7train.png?1471450091'}
+    - {name: 9train, src: 'http://emojis.slackmojis.com/emojis/images/1471450111/1026/9train.png?1471450111'}
+    - {name: atrain, src: 'http://emojis.slackmojis.com/emojis/images/1471450126/1027/atrain.png?1471450126'}
+    - {name: btrain, src: 'http://emojis.slackmojis.com/emojis/images/1471450167/1028/btrain.png?1471450167'}
+    - {name: ctrain, src: 'http://emojis.slackmojis.com/emojis/images/1471450205/1029/ctrain.png?1471450205'}
+    - {name: dtrain, src: 'http://emojis.slackmojis.com/emojis/images/1471450248/1030/dtrain.png?1471450248'}
+    - {name: etrain, src: 'http://emojis.slackmojis.com/emojis/images/1471450266/1031/etrain.png?1471450266'}
+    - {name: ftrain, src: 'http://emojis.slackmojis.com/emojis/images/1471450283/1032/ftrain.png?1471450283'}
+    - {name: gtrain, src: 'http://emojis.slackmojis.com/emojis/images/1471450313/1033/gtrain.png?1471450313'}
+    - {name: jtrain, src: 'http://emojis.slackmojis.com/emojis/images/1471450327/1034/jtrain.png?1471450327'}
+    - {name: ltrain, src: 'http://emojis.slackmojis.com/emojis/images/1471450342/1035/ltrain.png?1471450342'}
+    - {name: mtrain, src: 'http://emojis.slackmojis.com/emojis/images/1471450370/1036/mtrain.png?1471450370'}
+    - {name: ntrain, src: 'http://emojis.slackmojis.com/emojis/images/1471450619/1037/ntrain.png?1471450619'}
+    - {name: qtrain, src: 'http://emojis.slackmojis.com/emojis/images/1471450645/1038/qtrain.png?1471450645'}
+    - {name: rtrain, src: 'http://emojis.slackmojis.com/emojis/images/1471450663/1039/rtrain.png?1471450663'}
+    - {name: strain, src: 'http://emojis.slackmojis.com/emojis/images/1471450728/1040/strain.png?1471450728'}
+    - {name: ttrain, src: 'http://emojis.slackmojis.com/emojis/images/1471450754/1041/ttrain.png?1471450754'}
+    - {name: wtrain, src: 'http://emojis.slackmojis.com/emojis/images/1471534843/1046/wtrain.png?1471534843'}
+    - {name: ztrain, src: 'http://emojis.slackmojis.com/emojis/images/1471450770/1042/ztrain.png?1471450770'}
